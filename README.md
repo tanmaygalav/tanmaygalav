@@ -47,8 +47,8 @@ graph TD;
 
 ## 📂 Featured Projects  
 
-- 🛰 **[Digital Systems in Verilog](https://github.com/Vitiantanmay/)** – Circuits from adders to processors, HDL-driven  
-- 🌐 **[Backend Services](https://github.com/Vitiantanmay/backend)** – REST APIs with authentication & DB magic  
+- 🛰 **[Digital Systems in Verilog](https://github.com/tanmaygalav/)** – Circuits from adders to processors, HDL-driven  
+- 🌐 **[Backend Services](https://github.com/tanmaygalav/backend)** – REST APIs with authentication & DB magic  
 - 🔗 **IoT Sensor System** – Real-time monitoring, sensors + cloud integration  
 
 ---
@@ -56,9 +56,9 @@ graph TD;
 ## 🌌 Connect & Collaborate  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Vitiantanmay/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/tanmaygalav/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="mailto:your.tanmaygalav@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://github.com/Vitiantanmay"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://github.com/tanmaygalav"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
