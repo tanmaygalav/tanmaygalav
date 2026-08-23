@@ -2,8 +2,8 @@
 
 ```yaml
 status: "Building the Future"
-location: "VIT Chennai 🌍"
-role: "ECE Undergrad | Embedded + VLSI + Full-stack Dev"
+location: "VIT Chennai"
+role: "ECE Undergrad | Embedded"
 ```
 
 ---
@@ -24,7 +24,6 @@ I’m an **Electronics & Communication Engineer-in-progress** with a passion for
 
 ```mermaid
 graph TD;
-  Hardware-->VLSI;
   Hardware-->IoT;
   Software-->FullStack;
   Software-->Backend;
